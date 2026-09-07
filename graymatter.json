@@ -1,12 +1,12 @@
 {
-    "version": "0.19.0",
+    "version": "0.19.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/angelnicolasc/graymatter/releases/download/v0.19.0/graymatter_0.19.0_windows_amd64.zip",
+            "url": "https://github.com/angelnicolasc/graymatter/releases/download/v0.19.1/graymatter_0.19.1_windows_amd64.zip",
             "bin": [
                 "graymatter.exe"
             ],
-            "hash": "9154836d38debf4218c048b666b762a4d51c6458d35ffa3178f744e3bdad16fa"
+            "hash": "610e9f9a851461b1e26d372f39a406181343b317ed39f9978227cc49c8249223"
         }
     },
     "homepage": "https://github.com/angelnicolasc/graymatter",
