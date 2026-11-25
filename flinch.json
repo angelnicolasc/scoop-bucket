@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "homepage": "https://github.com/angelnicolasc/flinch",
+  "license": "Apache-2.0",
+  "description": "Turn corrections to coding agents into repository checks",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/angelnicolasc/flinch/releases/download/v0.1.0/flinch_0.1.0_windows_amd64.zip",
+      "hash": "3e0a8628e54a21c8e780111bd101dbbab154489bce36f226629c4ea3940b3129",
+      "extract_dir": "flinch_0.1.0_windows_amd64"
+    },
+    "arm64": {
+      "url": "https://github.com/angelnicolasc/flinch/releases/download/v0.1.0/flinch_0.1.0_windows_arm64.zip",
+      "hash": "54aaa0b4421ee9f9608b7f0a3d67fe4b975f93b8fd7e5b0a1564dd30551b923d",
+      "extract_dir": "flinch_0.1.0_windows_arm64"
+    }
+  },
+  "bin": "flinch.exe"
+}
